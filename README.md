@@ -1,55 +1,92 @@
-<h1 align="center">Hola, soy Cristian Amauri Gonzaga 👋</h1>
-<p align="center"><b>Desarrollador Full Stack · Java / Spring Boot · React · Vue</b><br>
-Centro de Desarrollo de Software (CDS) · Universidad Tecnológica Emiliano Zapata</p>
+<div align="center">
 
----
+<a href="https://github.com/AmauriGC">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=8BE9FD&center=true&vCenter=true&width=620&lines=%3E+Hola%2C+soy+Cristian+Gonzaga;%3E+Full+Stack+Developer;%3E+Java+%2F+Spring+Boot+%C2%B7+React+%C2%B7+Vue;%3E+I+use+Arch+btw+%F0%9F%90%A7" alt="Typing SVG" />
+</a>
 
-Construyo sistemas institucionales que están en producción en la UTEZ: APIs en **Spring Boot** con arquitectura hexagonal, frontends en **React** y **Vue**, y apps móviles en **Flutter**. Trabajo con Git Flow, code review y despliegue con Docker y Jenkins.
+</div>
 
-### 🛠️ Stack
+```bash
+cristian@archlinux ~ $ neofetch
+```
+```text
+                   -`                 cristian@archlinux
+                  .o+`                ------------------
+                 `ooo/                OS:        Arch Linux (linux-zen)
+                `+oooo:               WM:        Wayfire + gestos a 3 dedos
+               `+oooooo:              Terminal:  kitty (transparente, obvio)
+               -+oooooo+:             Rol:       Full Stack Developer @ CDS UTEZ
+             `/:-:++oooo+:            Backend:   Java 21 · Spring Boot · Django · NestJS
+            `/++++/+++++++:           Frontend:  React · Vue 3 · Next.js · Tailwind
+           `/++++++++++++++:          Móvil:     Flutter
+          `/+++ooooooooooooo/`        DB:        MySQL · PostgreSQL
+         ./ooosssso++osssssso+`       DevOps:    Docker · Jenkins · AWS
+        .oossssso-````/ossssss+`      Producción: 5 sistemas en la UTEZ
+       -osssssso.      :ssssssso.     Modo:      va que va 🚀
+      :osssssss/        osssso+++.
+     /ossssssss/        +ssssooo/-
+   `/ossssso+/:-        -:/+osssso+-
+  `+sso+:-`                 `.-/+oso:
+ `++:.                           `-/+/
+ .`                                 `/
+```
 
-**Backend**
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+### 🧰 Stack
 
-**Frontend y móvil**
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Vue](https://img.shields.io/badge/Vue_3-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,vue,ts,js,nextjs,nestjs,django,python&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,tailwind,mysql,postgres,docker,jenkins,aws,nginx,git,arch,linux,idea,unity&theme=dark" />
+</p>
 
-**Datos y DevOps**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white)
+### 🏛️ `~/cds-utez` — sistemas en producción
 
-### 🏛️ Sistemas en producción (CDS · UTEZ)
+```bash
+cristian@archlinux ~/cds-utez $ ls -l
+```
 
-| Sistema | Qué es | Stack |
+| Sistema | Qué hace | Stack |
 |---|---|---|
-| **SISA v2** | Sistema Integral de Servicios Académicos | Spring Boot · React · MySQL |
-| **CMA** | Admisión del Centro Morelense de las Artes | Spring Boot · Vue 3 · MySQL |
-| **AccessUtez** | Credencial digital PWA con escaneo QR | Spring Boot · Vue 3 · MySQL |
-| **CURIND** | Cursos de inducción | Spring Boot · React · MySQL |
-| **CODEC v2** | Plataforma de actividades físicas | Spring Boot · Vue · PostgreSQL |
+| 🎓 **SISA v2** | Servicios académicos: admisión, finanzas e identidad | Spring Boot · React · MySQL |
+| 🎭 **CMA** | Admisión del Centro Morelense de las Artes | Spring Boot · Vue 3 · MySQL |
+| 🪪 **AccessUtez** | Credencial digital PWA con escaneo QR para entrar al campus | Spring Boot · Vue 3 · MySQL |
+| 📚 **CURIND** | Cursos de inducción, carga masiva por Excel y reportes PDF | Spring Boot · React · MySQL |
+| 🏃 **CODEC v2** | Plataforma de actividades físicas | Spring Boot · Vue · PostgreSQL |
 
-<sub>Repositorios privados de la universidad.</sub>
+<sub>🔒 Repos privados de la universidad.</sub>
 
-### 🚀 Proyectos
+### 🚀 `~/proyectos`
 
-- **Gestor de Redes Sociales:** microservicios NestJS + Next.js desplegados en AWS EC2.
-- **Ergon:** app móvil que conecta clientes con técnicos (Spring Boot + Flutter).
-- **[Vantard Software Studio](https://github.com/AmauriGC/VantardSoftwareStudio):** plataforma de despliegues con Django REST, React, SonarQube y Grafana.
+- 📣 **Gestor de Redes Sociales:** microservicios NestJS + Next.js desplegados en 4 instancias de AWS EC2.
+- 🔧 **Ergon:** app móvil que conecta clientes con técnicos (Spring Boot + Flutter + WebSocket).
+- 🛰️ **[Vantard Software Studio](https://github.com/AmauriGC/VantardSoftwareStudio):** plataforma de despliegues con Django REST, React, SonarQube y Grafana.
 
-### 📫 Contacto
+### 🌱 `$ cat ahora.txt`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-gc2102)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kikan0405@gmail.com)
+```text
+📖 Aprendiendo   →  microservicios, AWS y Flutter más a fondo
+🎮 Jugando con   →  Unity: algún día sale mi propio juego
+🐧 Configurando  →  mi Arch por enésima vez (nunca está terminado)
+```
+
+### 📊 Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmauriGC&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AmauriGC&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmauriGC/AmauriGC/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmauriGC/AmauriGC/output/github-snake.svg" />
+    <img alt="snake comiéndose mis commits" src="https://raw.githubusercontent.com/AmauriGC/AmauriGC/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+### 📫 `$ contact --me`
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/cristian-gc2102"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:kikan0405@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
